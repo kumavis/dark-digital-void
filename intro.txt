@@ -1,0 +1,11 @@
+ ____             _      ____  _       _ _        _  __     __    _     _ 
+|  _ \  __ _ _ __| | __ |  _ \(_) __ _(_) |_ __ _| | \ \   / /__ (_) __| |
+| | | |/ _` | '__| |/ / | | | | |/ _` | | __/ _` | |  \ \ / / _ \| |/ _` |
+| |_| | (_| | |  |   <  | |_| | | (_| | | || (_| | |   \ V / (_) | | (_| |
+|____/ \__,_|_|  |_|\_\ |____/|_|\__, |_|\__\__,_|_|    \_/ \___/|_|\__,_|
+                                 |___/                                    
+ You open your eyes to an unfamiliar landscape below you, rising upwards. 
+ You are slowly falling, sinking, through the darkness.
+ Twisting paths, jutting away in different directions at hard right angles,
+ ordered rows of glowing informatics objects litter the plateu that extends in front of you.
+ Atlast, your feet touch the ground, and peer around your immediate surroundings.
